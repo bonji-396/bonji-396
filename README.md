@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![](mikuro.svg)
+
 <!--
 **bonji396/bonji396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
